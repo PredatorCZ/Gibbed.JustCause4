@@ -1,4 +1,4 @@
-; 1935/1938 (99%)
+; 1938/1938 (100%)
 models/environments/locale_illapa/textures/ill_miniature_mountain_01_dif.atx1
 models/environments/locale_illapa/textures/ill_miniature_mountain_01_nrm.atx1
 models/environments/locale_illapa/textures/ill_science_floor_a_clean_dif.atx1
@@ -361,7 +361,6 @@ models/environments/locale_military_b/mil_b_wall_b/textures/mil_b_wall_b_str_4m_
 models/environments/locale_military_b/mil_b_wall_b/textures/mil_b_wall_b_str_8m_01_mask.atx1
 models/environments/locale_military_mobile/mil_mob_canopy/textures/a_16x8_4m_mask.atx1
 models/environments/locale_military_mobile/mil_mob_canopy/textures/c_24x16_mask.atx1
-models/environments/locale_military_mobile/mil_mob_checkpoint/checkpoint_mobile_gate_a.hrmeshc
 models/environments/locale_military_mobile/mil_mob_command_b/mil_mob_command_b_flatbed_02.hrmeshc
 models/environments/locale_military_mobile/mil_mob_command_b/textures/mil_mob_prop_radar_a_01_dif.atx1
 models/environments/locale_military_mobile/mil_mob_command_b/textures/mil_mob_prop_radar_a_01_mpm.atx1
@@ -380,6 +379,7 @@ models/environments/locale_military_mobile/mil_mob_generator/textures/mil_mob_st
 models/environments/locale_military_mobile/mil_mob_generator/textures/mil_mob_standing_gen_a_01_nrm.atx1
 models/environments/locale_military_mobile/mil_mob_guard_tower/textures/mil_mob_guard_tower_a_guard_house_mask.atx1
 models/environments/locale_military_mobile/mil_mob_guard_tower/textures/mil_mob_guard_tower_a_trailer_base_mask.atx1
+models/environments/locale_military_mobile/mil_mob_checkpoint/checkpoint_mobile_gate_a.hrmeshc
 models/environments/locale_military_mobile/mil_mob_platform_a/textures/proxy/mil_mob_platform_a_16x16_01/proxy_mil_mob_platform_a_16x16_01_dif.atx1
 models/environments/locale_military_mobile/mil_mob_platform_a/textures/proxy/mil_mob_platform_a_16x16_01/proxy_mil_mob_platform_a_16x16_01_emissive.atx1
 models/environments/locale_military_mobile/mil_mob_platform_a/textures/proxy/mil_mob_platform_a_16x16_01/proxy_mil_mob_platform_a_16x16_01_mpm.atx1
@@ -524,8 +524,6 @@ models/environments/locale_road/road_cat_eye_a/textures/cateye_02_emissive.atx1
 models/environments/locale_road/road_cat_eye_a/textures/cateye_02_height.atx1
 models/environments/locale_road/road_cat_eye_a/textures/cateye_02_mpm.atx1
 models/environments/locale_road/road_cat_eye_a/textures/cateye_02_nrm.atx1
-models/environments/locale_road/road_checkpoint_a/textures/road_blocks_a_mask.atx1
-models/environments/locale_road/road_checkpoint_a/textures/road_checkpoint_a_mask.atx1
 models/environments/locale_road/road_elevated_a/road_elevated_a_on_off_exits_24.hrmeshc
 models/environments/locale_road/road_elevated_a/road_elevated_a_slope_12_5_degree.hrmeshc
 models/environments/locale_road/road_elevated_a/road_elevated_a_slope_24.hrmeshc
@@ -577,6 +575,8 @@ models/environments/locale_road/road_elevated_b/substance/b_pillar_top_mask.atx1
 models/environments/locale_road/road_elevated_b/substance/b_rail_surface_24x32.atx1
 models/environments/locale_road/road_elevated_b/substance/b_ramp_24m_mask.atx1
 models/environments/locale_road/road_elevated_b/substance/b_straight_24x60_mask.atx1
+models/environments/locale_road/road_checkpoint_a/textures/road_blocks_a_mask.atx1
+models/environments/locale_road/road_checkpoint_a/textures/road_checkpoint_a_mask.atx1
 models/environments/locale_road/road_junction_a/textures/road_asphalt_base_02_dif.atx1
 models/environments/locale_road/road_junction_a/textures/road_asphalt_base_02_dmg_dif_alpha.atx1
 models/environments/locale_road/road_junction_a/textures/road_asphalt_base_02_height.atx1
@@ -760,6 +760,9 @@ models/environments/locale_ruin/textures/stone_wall_decorative_01_a_clean_nrm.at
 models/environments/locale_ruin/textures/stone_wall_decorative_01_a_dirty_dif.atx1
 models/environments/locale_ruin/textures/stone_wall_decorative_01_a_dirty_mpm.atx1
 models/environments/locale_ruin/textures/stone_wall_decorative_01_a_dirty_nrm.atx1
+models/environments/locale_science/sci_black_box/textures/black_box_dif.atx1
+models/environments/locale_science/sci_black_box/textures/black_box_mpm.atx1
+models/environments/locale_science/sci_black_box/textures/black_box_nrm.atx1
 models/environments/locale_science/sci_bui_a/sci_bui_a_elevated_barrack_end_01.hrmeshc
 models/environments/locale_science/sci_bui_a/sci_bui_a_elevated_barrack_str_01.hrmeshc
 models/environments/locale_science/sci_bui_a/sci_bui_a_hall_r_end.hrmeshc
@@ -936,15 +939,15 @@ models/environments/locale_stadium/stadium_bui_a/stadium_bui_a_stadium_side_top_
 models/environments/locale_stadium/stadium_bui_a/stadium_bui_a_stadium_side_top_02.hrmeshc
 models/environments/locale_stadium/stadium_bui_a/stadium_bui_a_stadium_top_01.hrmeshc
 models/environments/locale_stadium/stadium_bui_a/stadium_bui_a_stadium_top_02.hrmeshc
-models/environments/locale_stadium/stadium_bui_a/textures/stadium_chair_a_01_dif.atx1
-models/environments/locale_stadium/stadium_bui_a/textures/stadium_chair_a_01_mpm.atx1
-models/environments/locale_stadium/stadium_bui_a/textures/stadium_chair_a_01_nrm.atx1
 models/environments/locale_stadium/stadium_bui_a/textures/stadium_door_a_01_dif.atx1
 models/environments/locale_stadium/stadium_bui_a/textures/stadium_door_a_01_mpm.atx1
 models/environments/locale_stadium/stadium_bui_a/textures/stadium_door_a_01_nrm.atx1
 models/environments/locale_stadium/stadium_bui_a/textures/stadium_goalpost_net_01_alpha_dif.atx1
 models/environments/locale_stadium/stadium_bui_a/textures/stadium_goalpost_net_01_mpm.atx1
 models/environments/locale_stadium/stadium_bui_a/textures/stadium_goalpost_net_01_nrm.atx1
+models/environments/locale_stadium/stadium_bui_a/textures/stadium_chair_a_01_dif.atx1
+models/environments/locale_stadium/stadium_bui_a/textures/stadium_chair_a_01_mpm.atx1
+models/environments/locale_stadium/stadium_bui_a/textures/stadium_chair_a_01_nrm.atx1
 models/environments/locale_stadium/stadium_bui_a/textures/stadium_jumbotron_a_01_dif.atx1
 models/environments/locale_stadium/stadium_bui_a/textures/stadium_jumbotron_a_01_emissive.atx1
 models/environments/locale_stadium/stadium_bui_a/textures/stadium_jumbotron_a_01_mpm.atx1
@@ -1093,20 +1096,6 @@ models/environments/shared/textures/ceramic_tile_floor_dif.atx1
 models/environments/shared/textures/ceramic_tile_floor_height.atx1
 models/environments/shared/textures/ceramic_tile_floor_mpm.atx1
 models/environments/shared/textures/ceramic_tile_floor_nrm.atx1
-models/environments/shared/textures/chainlink_fence_dif_alpha.atx1
-models/environments/shared/textures/chainlink_fence_mpm.atx1
-models/environments/shared/textures/chainlink_fence_nrm.atx1
-models/environments/shared/textures/chainlink_fence_pole_dif.atx1
-models/environments/shared/textures/chainlink_fence_pole_mpm.atx1
-models/environments/shared/textures/chainlink_fence_pole_nrm.atx1
-models/environments/shared/textures/chainlink_frame_01_alpha_dif.atx1
-models/environments/shared/textures/chainlink_frame_01_height.atx1
-models/environments/shared/textures/chainlink_frame_01_mpm.atx1
-models/environments/shared/textures/chainlink_frame_01_nrm.atx1
-models/environments/shared/textures/checkerboard_floor_01_a_clean_dif.atx1
-models/environments/shared/textures/checkerboard_floor_01_a_clean_mpm.atx1
-models/environments/shared/textures/checkerboard_floor_01_a_clean_nrm.atx1
-models/environments/shared/textures/christmas_lights_emissive.atx1
 models/environments/shared/textures/civ_highrise_bui_b_window_01_dif.atx1
 models/environments/shared/textures/civ_highrise_bui_b_window_01_emm.atx1
 models/environments/shared/textures/civ_highrise_bui_b_window_01_mpm.atx1
@@ -1761,6 +1750,20 @@ models/environments/shared/textures/grass_01_a_nrm.atx1
 models/environments/shared/textures/gravel_decorative_01_a_dif.atx1
 models/environments/shared/textures/gravel_decorative_01_a_mpm.atx1
 models/environments/shared/textures/gravel_decorative_01_a_nrm.atx1
+models/environments/shared/textures/chainlink_fence_dif_alpha.atx1
+models/environments/shared/textures/chainlink_fence_mpm.atx1
+models/environments/shared/textures/chainlink_fence_nrm.atx1
+models/environments/shared/textures/chainlink_fence_pole_dif.atx1
+models/environments/shared/textures/chainlink_fence_pole_mpm.atx1
+models/environments/shared/textures/chainlink_fence_pole_nrm.atx1
+models/environments/shared/textures/chainlink_frame_01_alpha_dif.atx1
+models/environments/shared/textures/chainlink_frame_01_height.atx1
+models/environments/shared/textures/chainlink_frame_01_mpm.atx1
+models/environments/shared/textures/chainlink_frame_01_nrm.atx1
+models/environments/shared/textures/checkerboard_floor_01_a_clean_dif.atx1
+models/environments/shared/textures/checkerboard_floor_01_a_clean_mpm.atx1
+models/environments/shared/textures/checkerboard_floor_01_a_clean_nrm.atx1
+models/environments/shared/textures/christmas_lights_emissive.atx1
 models/environments/shared/textures/marble_01_a_clean_dif.atx1
 models/environments/shared/textures/marble_01_a_clean_mpm.atx1
 models/environments/shared/textures/marble_01_a_clean_nrm.atx1

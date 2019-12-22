@@ -1,4 +1,4 @@
-; 2710/2740 (98%)
+; 2720/2740 (99%)
 models/environments/biome_generic/textures/vegetation_generic_debris_soil_001_mpm.atx1
 models/environments/biome_generic/textures/vegetation_generic_debris_soil_001_nrm.atx1
 models/environments/biome_generic/textures/vegetation_generic_debris_sticks_001_dif.atx1
@@ -1371,9 +1371,6 @@ models/environments/locale_farm/farm_bui_a/wind_mill_msks/farm_windmill_wings_ma
 models/environments/locale_farm/farm_canopy_a/farm_canopy_a_canopy_01_roof.hrmeshc
 models/environments/locale_farm/farm_canopy_a/textures/farm_canopy_a_01_mask_01.atx1
 models/environments/locale_farm/farm_prop_a/textures/bench_01_mask.atx1
-models/environments/locale_farm/farm_prop_a/textures/choppingblock_01_dif.atx1
-models/environments/locale_farm/farm_prop_a/textures/choppingblock_01_mpm.atx1
-models/environments/locale_farm/farm_prop_a/textures/choppingblock_01_nrm.atx1
 models/environments/locale_farm/farm_prop_a/textures/farm_tools_01_dif.atx1
 models/environments/locale_farm/farm_prop_a/textures/farm_tools_01_mpm.atx1
 models/environments/locale_farm/farm_prop_a/textures/farm_tools_01_nrm.atx1
@@ -1383,6 +1380,9 @@ models/environments/locale_farm/farm_prop_a/textures/farm_tools_02_nrm.atx1
 models/environments/locale_farm/farm_prop_a/textures/hay_bale_01_dif.atx1
 models/environments/locale_farm/farm_prop_a/textures/hay_bale_01_mpm.atx1
 models/environments/locale_farm/farm_prop_a/textures/hay_bale_01_nrm.atx1
+models/environments/locale_farm/farm_prop_a/textures/choppingblock_01_dif.atx1
+models/environments/locale_farm/farm_prop_a/textures/choppingblock_01_mpm.atx1
+models/environments/locale_farm/farm_prop_a/textures/choppingblock_01_nrm.atx1
 models/environments/locale_farm/farm_prop_a/textures/sawhorse_01_mask.atx1
 models/environments/locale_farm/farm_prop_a/textures/table_01_mask.atx1
 models/environments/locale_farm/farm_prop_a/textures/tobacco_bale_01_alpha_dif.atx1
@@ -1783,6 +1783,9 @@ models/environments/locale_global/anim_props_b/textures/purse_v3_dif.atx1
 models/environments/locale_global/anim_props_b/textures/purse_v3_mpm.atx1
 models/environments/locale_global/anim_props_b/textures/purse_v3_nrm.atx1
 models/environments/locale_global/arcade_machine/textures/arcade_machine_screen_01_dif.atx1
+models/environments/locale_global/balloon/textures/balloon_body_0_75m_dif.atx1
+models/environments/locale_global/balloon/textures/balloon_body_0_75m_mpm.atx1
+models/environments/locale_global/balloon/textures/balloon_body_0_75m_nrm.atx1
 models/environments/locale_global/barrel_a/textures/strips_dif.atx1
 models/environments/locale_global/barrel_a/textures/strips_mpm.atx1
 models/environments/locale_global/barrel_a/textures/strips_nrm.atx1
@@ -1927,6 +1930,9 @@ models/environments/locale_global/civilian_washing_lines_set_b/textures/civilian
 models/environments/locale_global/concrete_blocks/textures/concrete_01_b_dirt_dif.atx1
 models/environments/locale_global/concrete_blocks/textures/concrete_01_b_dirt_mpm.atx1
 models/environments/locale_global/concrete_blocks/textures/concrete_01_b_dirt_nrm.atx1
+models/environments/locale_global/cooking_prop/textures/pan_dif.atx1
+models/environments/locale_global/cooking_prop/textures/pan_mpm.atx1
+models/environments/locale_global/cooking_prop/textures/pan_nrm.atx1
 models/environments/locale_global/fire_hydrant/textures/glo_fire_hydrant_dif.atx1
 models/environments/locale_global/fire_hydrant/textures/glo_fire_hydrant_mpm.atx1
 models/environments/locale_global/fire_hydrant/textures/glo_fire_hydrant_nrm.atx1
@@ -2436,8 +2442,12 @@ models/environments/locale_global/mil_prop_search_light_a/textures/search_light_
 models/environments/locale_global/mil_prop_search_light_a/textures/search_light_a_glass_alpha_dif.atx1
 models/environments/locale_global/mil_prop_search_light_a/textures/search_light_a_glass_mpm.atx1
 models/environments/locale_global/mil_prop_search_light_a/textures/search_light_a_nrm.atx1
+models/environments/locale_global/paper_lantern/textures/paper_lantern_001_blue_dif.atx1
+models/environments/locale_global/paper_lantern/textures/paper_lantern_001_emi.atx1
+models/environments/locale_global/paper_lantern/textures/paper_lantern_001_green_dif.atx1
 models/environments/locale_global/paper_lantern/textures/paper_lantern_001_mpm.atx1
 models/environments/locale_global/paper_lantern/textures/paper_lantern_001_nrm.atx1
+models/environments/locale_global/paper_lantern/textures/paper_lantern_001_orange_dif.atx1
 models/environments/locale_global/paper_lantern/textures/paper_lantern_001_white_dif.atx1
 models/environments/locale_global/propane_tank_a/textures/propane_tank_a_01_dif.atx1
 models/environments/locale_global/propane_tank_a/textures/propane_tank_a_01_mpm.atx1

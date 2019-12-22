@@ -122,8 +122,6 @@ settings/asset_memory_budgets.bin
 settings/benchmarks.bin
 settings/build_version.bin
 settings/camera_debugger.bin
-settings/character_tint_settings.bin
-settings/charactertypes.bin
 settings/collectitemtypes.bin
 settings/creatures.bin
 settings/creatures.bl
@@ -135,6 +133,8 @@ settings/feat_icon_defs.bin
 settings/game_materials.bin
 settings/game_materials_all_asphalt.bin
 settings/gamestaterun.bin
+settings/character_tint_settings.bin
+settings/charactertypes.bin
 settings/input_action_list.bin
 settings/keymap_gamepad.bin
 settings/keymap_keyboard.bin
@@ -160,10 +160,10 @@ settings/sheldonservice.bin
 settings/smartobjectsettings.bin
 settings/spawn_animals_defs.bin
 settings/spawn_budget_pools.bin
-settings/spawn_characters_defs.bin
 settings/spawn_device_defs.bin
 settings/spawn_effect_defs.bin
 settings/spawn_encounter_defs.bin
+settings/spawn_characters_defs.bin
 settings/spawn_prop_defs.bin
 settings/spawn_vehicle_defs.bin
 settings/spawn_vehicle_proto_defs.bin
@@ -271,10 +271,6 @@ textures/bullet_trail_atlas_dif.ddsc
 textures/bullet_trail_new_dif.ddsc
 textures/bullet_trail_nrm.ddsc
 textures/car_dirt.ddsc
-textures/challenge_flag_dif.ddsc
-textures/charactereyescube_dif.ddsc
-textures/charactereyescube_v2_dif.ddsc
-textures/charactereyescube_v3_dif.ddsc
 textures/cloudshadows.ddsc
 textures/color_curves/clut_alpine01.ddsc
 textures/color_curves/clut_desert01.ddsc
@@ -288,11 +284,11 @@ textures/color_curves/color_correction_oppressed.ddsc
 textures/color_curves/default_cluttga.ddsc
 textures/creatures/creatures_alpha_dif.ddsc
 textures/decals/blood_skin_splat_dif.ddsc
+textures/decals/blood_splatter_dif.ddsc
 textures/decals/blood_splatter_character_dif.ddsc
 textures/decals/blood_splatter_character_mpm.ddsc
 textures/decals/blood_splatter_character_nrm.ddsc
 textures/decals/blood_splatter_character_spc.ddsc
-textures/decals/blood_splatter_dif.ddsc
 textures/decals/blood_splatter_mpm.ddsc
 textures/decals/blood_splatter_nrm.ddsc
 textures/decals/blood_splatter_smear_dif.ddsc
@@ -325,7 +321,6 @@ textures/decals/t_mission_trigger_quest_garland_alpha_dif.ddsc
 textures/decals/t_mission_trigger_quest_javi_alpha_dif.ddsc
 textures/decals/t_mission_trigger_quest_locked_alpha_dif.ddsc
 textures/decals/t_mission_trigger_quest_lorena_alpha_dif.ddsc
-textures/dummies/checkers_dif.ddsc
 textures/dummies/dummy_0_6m.ddsc
 textures/dummies/dummy_1_2m.ddsc
 textures/dummies/dummy_1_8m.ddsc
@@ -334,8 +329,6 @@ textures/dummies/dummy_alpha_dif.ddsc
 textures/dummies/dummy_ao.ddsc
 textures/dummies/dummy_babyblue.ddsc
 textures/dummies/dummy_black.ddsc
-textures/dummies/dummy_character_grey.ddsc
-textures/dummies/dummy_checker_alpha_dif.ddsc
 textures/dummies/dummy_dark_green_dif.ddsc
 textures/dummies/dummy_darkgrey.ddsc
 textures/dummies/dummy_decal_alpha_dif.ddsc
@@ -352,6 +345,8 @@ textures/dummies/dummy_grey_dif.ddsc
 textures/dummies/dummy_grey_mpm.ddsc
 textures/dummies/dummy_gym_texture_dif.ddsc
 textures/dummies/dummy_height.ddsc
+textures/dummies/dummy_character_grey.ddsc
+textures/dummies/dummy_checker_alpha_dif.ddsc
 textures/dummies/dummy_layered_dif.ddsc
 textures/dummies/dummy_layered_glo.ddsc
 textures/dummies/dummy_layered_nrm.ddsc
@@ -393,6 +388,7 @@ textures/dummies/havok_deformation_dif.ddsc
 textures/dummies/havok_flexjoint_dif.ddsc
 textures/dummies/havok_fracture_dif.ddsc
 textures/dummies/havok_wood_dif.ddsc
+textures/dummies/checkers_dif.ddsc
 textures/dummies/metergrid.ddsc
 textures/dummies/red_temp.ddsc
 textures/dummies/swatches_dif.ddsc
@@ -411,6 +407,10 @@ textures/genericenvcube_with_point_lights_dif.ddsc
 textures/genericenvcubegrey_dif.ddsc
 textures/glossyenvcube_dif.ddsc
 textures/hologram_noise_msk.ddsc
+textures/challenge_flag_dif.ddsc
+textures/charactereyescube_dif.ddsc
+textures/charactereyescube_v2_dif.ddsc
+textures/charactereyescube_v3_dif.ddsc
 textures/landscape/foliage_wind_noise.ddsc
 textures/landscape/forest_normal_displacement.ddsc
 textures/landscape/forestfin_dif.ddsc
