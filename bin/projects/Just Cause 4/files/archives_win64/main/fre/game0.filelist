@@ -1,4 +1,4 @@
-; 2518/11633 (21%)
+; 2520/11633 (21%)
 sound/dialogue/eng/bark_civ_female01_approach_vendor_10.wavc
 sound/dialogue/eng/bark_civ_female01_approach_vendor_20.wavc
 sound/dialogue/eng/bark_civ_female01_bumped_by_player_10.wavc
@@ -1439,6 +1439,8 @@ sound/dialogue/eng/node_military_11_dial_startfirstbridge_010_prisoner_male02.wa
 sound/dialogue/eng/node_military_11_dial_startfirstbridge_020_rico.wavc
 sound/dialogue/eng/node_military_11_dial_startfirstbridge_030_sargento.wavc
 sound/dialogue/eng/node_military_11_dial_startfirstbridge_040_izzy.wavc
+sound/dialogue/eng/pilots_dial_fasttravel_030_reb_male03.wavc
+sound/dialogue/eng/pilots_dial_fasttravel_050_reb_male04.wavc
 sound/dialogue/eng/quest_c01_dial_complete_010_sargento.wavc
 sound/dialogue/eng/quest_c01_dial_complete_020_sargento.wavc
 sound/dialogue/eng/quest_c01_dial_headtosource_010_sargento.wavc

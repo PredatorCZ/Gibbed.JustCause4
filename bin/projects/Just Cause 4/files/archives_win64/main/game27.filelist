@@ -1,4 +1,4 @@
-; 1902/1903 (99%)
+; 1903/1903 (100%)
 models/landmarks/secondary_locations/grasslands/gl_west_settlement_23/gl_west_settlement_23/gl_west_settlement_23_landmark_dif.atx1
 models/landmarks/secondary_locations/grasslands/gl_west_settlement_24/gl_west_settlement_24/gl_west_settlement_24_landmark_dif.atx1
 models/landmarks/secondary_locations/grasslands/gl_west_settlement_25/gl_west_settlement_25/gl_west_settlement_25_landmark_dif.atx1
@@ -1607,6 +1607,7 @@ models/vehicles/01_land/v026_car_vintagesports/textures/v026_car_vintage_sports_
 models/vehicles/01_land/v026_car_vintagesports/textures/v026_car_vintage_sports_wheel_mpm.atx1
 models/vehicles/01_land/v026_car_vintagesports/textures/v026_car_vintage_sports_wheel_nrm.atx1
 models/vehicles/01_land/v026_car_vintagesports/textures/v026_car_vintage_sports_windows_alpha_dif.atx1
+models/vehicles/01_land/v026_car_vintagesports/vintagesports.physicsc
 models/vehicles/01_land/v026_car_vintagesports/vintagesports_body.hrmeshc
 models/vehicles/01_land/v027_car_hurricanetruck/hurricanetruck_body.hrmeshc
 models/vehicles/01_land/v027_car_hurricanetruck/hurricanetruck_ratchet_straps.meshc

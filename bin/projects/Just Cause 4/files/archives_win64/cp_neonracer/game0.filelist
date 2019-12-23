@@ -1,1 +1,36 @@
-; 0/38 (0%)
+; 35/38 (92%)
+dlc/cp_neonracer/cp_neonracer.dlcinstallinfo
+dlc/cp_neonracer/editor/entities/dlc/parachute_skins/skin_parachute_neon.ee
+dlc/cp_neonracer/editor/entities/dlc/parachute_skins/skin_parachute_neon.epe
+dlc/cp_neonracer/editor/entities/dlc/wingsuit_skins/skin_wingsuit_neon.ee
+dlc/cp_neonracer/editor/entities/dlc/wingsuit_skins/skin_wingsuit_neon.epe
+dlc/cp_neonracer/editor/entities/vehicles/01_land/v024_car_ecosuper/v024_car_ecosuper_preorder_01.ee
+dlc/cp_neonracer/editor/entities/vehicles/01_land/v024_car_ecosuper/v024_car_ecosuper_preorder_01.epe
+dlc/cp_neonracer/editor/entities/vehicles/01_land/v024_car_ecosuper/v024_car_ecosuper_preorder_01.epe_adf
+dlc/cp_neonracer/editor/entities/vehicles/01_land/v024_car_ecosuper/v024_car_ecosuper_preorder_01.resourcebundle
+dlc/cp_neonracer/models/objects/parachute_neon/parachute_neon.hrmeshc
+dlc/cp_neonracer/models/objects/parachute_neon/textures/parachute_neon_cloth_dif.atx1
+dlc/cp_neonracer/models/objects/parachute_neon/textures/parachute_neon_cloth_emissive_mask.atx1
+dlc/cp_neonracer/models/objects/parachute_neon/textures/parachute_neon_cloth_mpm.atx1
+dlc/cp_neonracer/models/objects/parachute_neon/textures/parachute_neon_cloth_nrm.atx1
+dlc/cp_neonracer/models/objects/parachute_neon/textures/parachute_neon_harness_dif.atx1
+dlc/cp_neonracer/models/objects/parachute_neon/textures/parachute_neon_harness_mpm.atx1
+dlc/cp_neonracer/models/objects/parachute_neon/textures/parachute_neon_harness_nrm.atx1
+dlc/cp_neonracer/models/objects/wingsuit_neon/textures/wingsuit_neon_dif.atx1
+dlc/cp_neonracer/models/objects/wingsuit_neon/textures/wingsuit_neon_emissive_mask.atx1
+dlc/cp_neonracer/models/objects/wingsuit_neon/textures/wingsuit_neon_mpm.atx1
+dlc/cp_neonracer/models/objects/wingsuit_neon/textures/wingsuit_neon_nrm.atx1
+dlc/cp_neonracer/models/vehicles/01_land/v024_car_ecosuper/textures/v024_car_ecosuper_undercarriage_neon_dif.atx1
+dlc/cp_neonracer/models/vehicles/01_land/v024_car_ecosuper/textures/v024_car_ecosuper_undercarriage_neon_emmisive.atx1
+dlc/cp_neonracer/models/vehicles/01_land/v024_car_ecosuper/textures/v024_car_ecosuper_wheel_neon_dif.atx1
+dlc/cp_neonracer/models/vehicles/01_land/v024_car_ecosuper/textures/v024_car_ecosuper_wheel_neon_emmisive.atx1
+dlc/cp_neonracer/models/vehicles/01_land/v024_car_ecosuper/textures/v024_car_ecosuper_wheel_neon_mpm.atx1
+dlc/cp_neonracer/settings/spawn_prop_defs.bin
+dlc/cp_neonracer/settings/spawn_vehicle_defs.bin
+dlc/cp_neonracer/settings/spawn_weapon_defs.bin
+packages/cp_neonracer/collection.collectionc
+packages/cp_neonracer/distant_lights.light_infoc
+packages/cp_neonracer/expentity_info_collection.expentity_infoc
+packages/cp_neonracer/objectives.objectivesc
+packages/cp_neonracer/weapons.weaponsc
+packages/cp_neonracer/world.bin

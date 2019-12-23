@@ -1,4 +1,4 @@
-; 10660/19903 (53%)
+; 10662/19903 (53%)
 animations/cinematics/scenes/garland/intro_start/animations/shot_1000/shot_1000__char_garland.ban
 animations/cinematics/scenes/garland/intro_start/animations/shot_1000/shot_1000__char_garland_crew_03.ban
 animations/cinematics/scenes/garland/intro_start/animations/shot_1000/shot_1000__char_garland_crew_05.ban
@@ -1790,6 +1790,8 @@ animations/dialogue/eng/node_military_11_dial_startfirstbridge_010_prisoner_male
 animations/dialogue/eng/node_military_11_dial_startfirstbridge_020_rico.ban
 animations/dialogue/eng/node_military_11_dial_startfirstbridge_030_sargento.ban
 animations/dialogue/eng/node_military_11_dial_startfirstbridge_040_izzy.ban
+animations/dialogue/eng/pilots_dial_fasttravel_030_reb_male03.ban
+animations/dialogue/eng/pilots_dial_fasttravel_050_reb_male04.ban
 animations/dialogue/eng/quest_c01_dial_complete_010_sargento.ban
 animations/dialogue/eng/quest_c01_dial_complete_020_sargento.ban
 animations/dialogue/eng/quest_c01_dial_headtosource_010_sargento.ban

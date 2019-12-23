@@ -1,1 +1,12 @@
-; 0/11 (0%)
+; 11/11 (100%)
+dlc/cp_neonracer/models/objects/parachute_neon/textures/parachute_neon_cloth_dif.atx2
+dlc/cp_neonracer/models/objects/parachute_neon/textures/parachute_neon_cloth_emissive_mask.atx2
+dlc/cp_neonracer/models/objects/parachute_neon/textures/parachute_neon_cloth_mpm.atx2
+dlc/cp_neonracer/models/objects/parachute_neon/textures/parachute_neon_cloth_nrm.atx2
+dlc/cp_neonracer/models/objects/parachute_neon/textures/parachute_neon_harness_dif.atx2
+dlc/cp_neonracer/models/objects/parachute_neon/textures/parachute_neon_harness_mpm.atx2
+dlc/cp_neonracer/models/objects/parachute_neon/textures/parachute_neon_harness_nrm.atx2
+dlc/cp_neonracer/models/objects/wingsuit_neon/textures/wingsuit_neon_dif.atx2
+dlc/cp_neonracer/models/objects/wingsuit_neon/textures/wingsuit_neon_emissive_mask.atx2
+dlc/cp_neonracer/models/objects/wingsuit_neon/textures/wingsuit_neon_mpm.atx2
+dlc/cp_neonracer/models/objects/wingsuit_neon/textures/wingsuit_neon_nrm.atx2
