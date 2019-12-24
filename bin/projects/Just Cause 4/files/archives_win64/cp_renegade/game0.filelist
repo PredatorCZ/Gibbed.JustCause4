@@ -1,5 +1,25 @@
-; 10/33 (30%)
+; 30/33 (90%)
 dlc/cp_renegade/cp_renegade.dlcinstallinfo
+dlc/cp_renegade/editor/entities/dlc/parachute_skins/skin_parachute_renegade.ee
+dlc/cp_renegade/editor/entities/dlc/parachute_skins/skin_parachute_renegade.epe
+dlc/cp_renegade/editor/entities/dlc/wingsuit_skins/skin_wingsuit_renegade.ee
+dlc/cp_renegade/editor/entities/dlc/wingsuit_skins/skin_wingsuit_renegade.epe
+dlc/cp_renegade/editor/entities/weapons/01_wielded/wpn_903_renegade_assault_rifle/wpn_903_renegade_assault_rifle.ee
+dlc/cp_renegade/editor/entities/weapons/01_wielded/wpn_903_renegade_assault_rifle/wpn_903_renegade_assault_rifle.epe
+dlc/cp_renegade/editor/entities/weapons/01_wielded/wpn_903_renegade_assault_rifle/wpn_903_renegade_assault_rifle.epe_adf
+dlc/cp_renegade/editor/entities/weapons/01_wielded/wpn_903_renegade_assault_rifle/wpn_903_renegade_assault_rifle_mag.ee
+dlc/cp_renegade/editor/entities/weapons/01_wielded/wpn_903_renegade_assault_rifle/wpn_903_renegade_assault_rifle_mag.epe
+dlc/cp_renegade/editor/entities/weapons/01_wielded/wpn_903_renegade_assault_rifle/wpn_903_renegade_assault_rifle_mag.epe_adf
+dlc/cp_renegade/models/objects/parachute_renegade/parachute_renegade.hrmeshc
+dlc/cp_renegade/models/objects/parachute_renegade/textures/parachute_renegade_cloth_dif.atx1
+dlc/cp_renegade/models/objects/parachute_renegade/textures/parachute_renegade_cloth_mpm.atx1
+dlc/cp_renegade/models/objects/parachute_renegade/textures/parachute_renegade_cloth_nrm.atx1
+dlc/cp_renegade/models/objects/wingsuit_renegade/textures/wingsuit_renegade_dif.atx1
+dlc/cp_renegade/models/objects/wingsuit_renegade/textures/wingsuit_renegade_mpm.atx1
+dlc/cp_renegade/models/objects/wingsuit_renegade/textures/wingsuit_renegade_nrm.atx1
+dlc/cp_renegade/models/weapons/wpn_903_rebel_machinegun/textures/wpn_903_rebel_machinegun_alpha_mpm.atx1
+dlc/cp_renegade/models/weapons/wpn_903_rebel_machinegun/textures/wpn_903_rebel_machinegun_dif.atx1
+dlc/cp_renegade/models/weapons/wpn_903_rebel_machinegun/textures/wpn_903_rebel_machinegun_nrm.atx1
 dlc/cp_renegade/settings/spawn_prop_defs.bin
 dlc/cp_renegade/settings/spawn_vehicle_defs.bin
 dlc/cp_renegade/settings/spawn_weapon_defs.bin
